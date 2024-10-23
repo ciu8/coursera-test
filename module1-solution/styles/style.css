@@ -1,0 +1,5 @@
+.border-danger { border: 1px solid red; }
+.border-success { border: 1px solid green; }
+.message { font-size: 1.3em; font-weight: bold; }
+.message-danger { color: red; }
+.message-success { color: green; }
